@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/renewable/static/css/main.771007c3.css",
+    "main.js": "/renewable/static/js/main.bddaf24c.js",
+    "static/js/787.4be8362b.chunk.js": "/renewable/static/js/787.4be8362b.chunk.js",
+    "index.html": "/renewable/index.html",
+    "main.771007c3.css.map": "/renewable/static/css/main.771007c3.css.map",
+    "main.bddaf24c.js.map": "/renewable/static/js/main.bddaf24c.js.map",
+    "787.4be8362b.chunk.js.map": "/renewable/static/js/787.4be8362b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.771007c3.css",
+    "static/js/main.bddaf24c.js"
+  ]
+}
